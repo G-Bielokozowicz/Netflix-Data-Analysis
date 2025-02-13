@@ -67,23 +67,35 @@ Number of releases is rather evenly spread through the year, with massive dips i
 
 United States massively dwarfs other countries with over 3000 releses. India in second place only has slightly above 1000 in comparison.
 
-![obraz](https://github.com/user-attachments/assets/b4dde327-4be4-4f7d-b034-6f90f3db04af)
+![obraz](https://github.com/user-attachments/assets/9eeffe4e-9312-4143-b7dc-c4a067208e3f)
+
 
 United States releases around half of the amount pf content, that all the other countries did combined.
 
 ![obraz](https://github.com/user-attachments/assets/c62c8421-f16c-442e-8cc7-c44a9c9700c6)
 
+## Category Analysis
+
+The most popular categories are Dramas and Comedies.
+
+![obraz](https://github.com/user-attachments/assets/5aa57253-3c4e-4736-b60f-0beddd317938)
+
+
 ## Movie vs TV Shows
 
 There's double the amount of movie than TV Shows.
+
 ![obraz](https://github.com/user-attachments/assets/4b9aa3b3-0573-416c-830d-784a19b31565)
 
 Movies are especially popular in India (Bollywood), in contrast with TV Shows being more popular in Pakistan as well in Japan and South Korea, where K-dramas are very popular.
-![obraz](https://github.com/user-attachments/assets/b712f6ae-cd55-46c9-8593-f56cb5dce17a)
+
+![obraz](https://github.com/user-attachments/assets/23371145-a833-4080-87db-9fe080b6e433)
 
 
 ## Length Analysis
+
 Movies have varied lengths, with the highest concentration at around 100 minutes.
+
 ![obraz](https://github.com/user-attachments/assets/32cef367-3778-4c83-a8fa-463562ccb7cd)
 
 In comparison TV Shows are massively dominated by 1 season length, reducing drastically with more seasons. For example the amount of 3 seasons shows in only about 20% of those with 1 season.
@@ -104,5 +116,6 @@ The most popluar rating is TV-MA, which means "not suitable for children under 1
 ![obraz](https://github.com/user-attachments/assets/d6db2b97-326f-4f33-b64a-38778f02ad81)
 
 Interestingly content rated R didn't see the post pandemic dip, that all the others did and remained steady. Content rated for childer (PG-13, TV-Y7) even had slight increased after pandemic.
+
 ![obraz](https://github.com/user-attachments/assets/1a6aba55-bcf2-43df-a195-3c2cf31e2212)
 
