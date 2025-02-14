@@ -81,6 +81,8 @@ The most popular categories are Dramas and Comedies.
 ![obraz](https://github.com/user-attachments/assets/5aa57253-3c4e-4736-b60f-0beddd317938)
 
 
+![obraz](https://github.com/user-attachments/assets/984d85d7-e214-4e58-a98a-cbd1e645a470)
+
 ## Movie vs TV Shows
 
 There's double the amount of movie than TV Shows.
@@ -102,6 +104,9 @@ In comparison TV Shows are massively dominated by 1 season length, reducing dras
 
 ![obraz](https://github.com/user-attachments/assets/fd98da5a-ada6-4d92-9181-bfacad9ff74d)
 
+The categories have rather even split when it comes to length, with only exception being Classic & Cult TV Shows.
+
+![obraz](https://github.com/user-attachments/assets/d7a74a28-c61a-4ea2-ad38-6f3814fe02d4)
 
 ## Director Analysis
 
